@@ -37,8 +37,30 @@
     </div>
 
 <!-- Recent Posts  -->
-<div>
+<div class="container mx-auto text-center py-15">
 
+    <h2 class="py-10 font-bold text-5xl">Recent Posts</h2>
+    <p class="text-gray-400 leading-6">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque quae officia autem excepturi accusantium incidunt magnam dolor modi in dicta eius animi, repellat assumenda, sunt quisquam ut, ducimus amet ratione? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis harum dolorem esse, quos architecto, quasi totam ipsa fugit temporibus accusamus corrupti voluptatibus doloribus, modi velit voluptate enim! Reprehenderit, distinctio quisquam.</p>
+
+</div>
+
+<div class="sm:grid grid-cols-2 w-4/5 mx-auto">
+    <div class="flex bg-yellow-700 text-gray-100 pt-10">
+        <div class="block m-auto pt-4 pb-15 w-4/5">
+
+            <ul class="md:flex text-xs gap-2 ">
+                <li class="bg-yellow-100 text-yellow-700 p-2 rounded inline-block my-1 md:my-0 hover:text-yellow-100 transition duration-300"><a href="/"></a>PHP Develober</li>
+                <li class="bg-yellow-100 text-yellow-700 p-2 rounded inline-block my-1 md:my-0 hover:text-yellow-100 transition duration-300"><a href="/">Backend</a></li>
+                <li class="bg-yellow-100 text-yellow-700 p-2 rounded inline-block my-1 md:my-0 hover:text-yellow-100 transition duration-300"><a href="/">Larave</a></li>
+                <li class="bg-yellow-100 text-yellow-700 p-2 rounded inline-block my-1 md:my-0 hover:text-yellow-100 transition duration-300"><a href="/">Programming</a></li>
+            </ul>
+            <h3 class="text-l py-10 leading-6">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id earum, quo accusantium quos doloremque possimus nam ab dolor a voluptatem veritatis error odit asperiores porro quas ipsum autem temporibus, tempore beatae enim quae, officiis ea esse deleniti? Quod illo praesentium placeat suscipit deserunt molestiae ratione inventore accusantium quisquam eligendi. Soluta.</h3>
+            <a href="/" class="bg-transparent border-2 text-gray-100 py-4 px-5 rounded-lg font-bold uppercase text-l inline-block mb-2">read more</a>
+        </div>
+    </div>
+    <div class="flex">
+        <img class="object-cover" src="https://picsum.photos/id/242/900/600" alt="image" >
+    </div>
 </div>
 
 

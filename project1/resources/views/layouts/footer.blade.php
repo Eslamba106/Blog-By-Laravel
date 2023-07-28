@@ -1,5 +1,5 @@
 <footer class="bg-gray-700 py-15 mt-20">
-    <div class="container mx-auto flex justify-between items-center px-6">
+    <div class="container mx-auto mt-20 flex justify-between items-center px-6">
         <div>
             <h2 class="font-bold text-gray-100">Pages</h2>
             <ul class="pt-4 text-gray-400">
